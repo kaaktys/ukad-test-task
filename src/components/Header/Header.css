@@ -1,0 +1,27 @@
+.header-wrapper {
+  height: 78px;
+  display: flex;
+  /* justify-content: space-between; */
+  background: #022b32;
+}
+
+.logo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-left: 20px;
+}
+
+.buttons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-left: 55px;
+  list-style: none;
+  color: white;
+}
+
+.home-btn {
+  padding-right: 55px;
+  text-decoration: underline;
+}
