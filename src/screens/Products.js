@@ -1,13 +1,16 @@
 import ProductCard from '../components/ProductCard/ProductCard'
 import './Home.css'
 
-const Home = () => {
+const Products = () => {
     return (
         <div className="home-wrapper">
-           <h1>Home page</h1>
+           <h1>Product page</h1>
+           <ProductCard />
+           <ProductCard />
+           <ProductCard />
            <ProductCard />
         </div>
     )
 }
 
-export default Home
+export default Products

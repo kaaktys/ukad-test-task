@@ -1,0 +1,10 @@
+.product-wrapper {
+    border: 1px solid lightgrey;
+    width: 421px;
+    height: 551px;
+}
+
+.product-image {
+    width: 421px;
+    height: 441px;
+}

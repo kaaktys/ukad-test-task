@@ -1,13 +1,13 @@
 import './App.css';
 import Footer from './components/Footer/Footer';
 import Header from './components/Header/Header';
-import ProductCard from './components/ProductCard/ProductCard';
+import Home from './screens/Home';
 
 function App() {
   return (
-    <div className="App">
+    <div className="app-wrapper">
       <Header />
-      <ProductCard />
+      <Home />
       <Footer />
     </div>
   );

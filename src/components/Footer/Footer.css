@@ -1,0 +1,8 @@
+.footer-wrapper {
+    height: 78px;
+    display: flex;
+    justify-content: flex-start;
+    color: white;
+    background: #022b32;
+    padding-left: 30px;
+}
